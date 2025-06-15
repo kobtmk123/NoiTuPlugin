@@ -1,0 +1,13 @@
+name: NoiTuPlugin
+version: '${project.version}'
+main: com.been.noitu.NoiTuPlugin
+api-version: 1.19
+authors: [Been]
+description: Mini-game Nối Từ cho Minecraft
+
+commands:
+  nt:
+    description: Lệnh chính của game Nối Từ.
+    aliases: [noitu]
+  thachdau:
+    description: Thách đấu người chơi khác.
