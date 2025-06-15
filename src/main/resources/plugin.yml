@@ -1,7 +1,7 @@
 name: NoiTuPlugin
 version: '${project.version}'
 main: com.been.noitu.NoiTuPlugin
-api-version: 1.19
+api-version: 1.21 # ĐÃ CẬP NHẬT
 authors: [Been]
 description: Mini-game Nối Từ cho Minecraft
 
